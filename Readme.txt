@@ -1,27 +1,26 @@
-Project Team :Group 6 
-link : https://docs.google.com/spreadsheets/d/1PoSZLLorwx4ZEH7-jnprJmR1zWABxcP6qsc-YObrNVE/edit#gid=0
+Project Team :Group 7 
 
-Sankalp Awasthi	                awasthi.s@northeastern.edu	    002789266
-Naisargi Thakkar	            thakkar.nai@northeastern.edu	002926770
-Aravind Sankar Sreekanthan	    sreekanthan.a@northeastern.edu	002774318
-Abhishek Krishna               	krishna.ab@northeastern.edu	    002776672
-
-
+Evita Alice Paul	                paul.ev@northeastern.edu	                002796656
+Pritika Purushothaman	            purushothaman.pr@northeastern.edu	        002796817
+Harshan Goodwin Hector	          hector.h@northeastern.edu       	        002708280
+Saranya Sankar               	    krishnamurthysanka.s@northeastern.edu	    002774331
+Chaman Betrabet                   betrabet.c@northeastern.edu               002784662
 
 
-Project Description: BunkMates
+
+Project Description: GourmetGo
 
 
-Living with the right people beats living on your own any day. When you live with the right people,
-you don't just share your space - you share your life. They become more than your flatmates,
-more than the people ahead of you in the queue for the bathroom. They're your friends.
-BunkMates is all about helping you find those people. The people who make sharing amazing.
+"Life's too short to eat bad food. Satisfy your cravings and elevate your taste buds with Gourmet Go, the premier food delivery app that brings you the finest dining experiences right to your doorstep!"
 
-The Website will enable its user to find their roommates based upon their prefernces and priority. It will
-let the users to get a list of people which can be their potential roommate based upon the matching algorithm.
-Once matched both the person gets to connected together and if their plan allows then they can access the housing
-space which can be used to find housing as their next step. The search for roommate is controlled on the basis of what 
-plan the user is active in, which is divided into 4 categories and have increasing benefits on the increasing price end.
+"Gourmet Go is not just about delivering food, it's about delivering culinary magic. Our team of expert chefs and delivery drivers work together to ensure your meal is prepared to perfection and delivered with the utmost care, so you can enjoy a gourmet meal without leaving your home."
+
+"Elevate your dining experience with Gourmet Go. Our carefully curated selection of gourmet restaurants and signature dishes are designed to tantalize your taste buds and transport you to foodie heaven. So why settle for ordinary takeout when you can have a gourmet meal at the touch of a button?"
+
+"From Michelin-starred restaurants to hidden gems, Gourmet Go brings you the best of the best in gourmet dining. With our easy-to-use app and lightning-fast delivery, you can indulge in your favorite dishes or discover new culinary delights from the comfort of your own home."
+
+"Gourmet Go is more than just a food delivery app, it's a community of food lovers who appreciate the finer things in life. Whether you're in the mood for a decadent dessert or a hearty meal, our app connects you with the best gourmet options in your area, so you can enjoy a premium dining experience without the hassle"
+
 
 BootStrap Components:
 
