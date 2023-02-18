@@ -45,11 +45,11 @@ h5 {
 a {
   letter-spacing: 2px;
   text-decoration: none;
-  color: #fe7f2d;
+  color: red;
 }
 
 a:hover {
-  color: #fe7f2d;
+  color: red;
 }
 
 ul {
@@ -106,7 +106,7 @@ span {
 }
 
 /*--------------------------------------------------------------
-# Back to top button
+# Back to top buttond
 --------------------------------------------------------------*/
 .back-to-top {
   position: fixed;
@@ -115,7 +115,7 @@ span {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #fe7f2d;
+  background: orangered;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -129,7 +129,7 @@ span {
 }
 
 .back-to-top:hover {
-  background: #fe7f2d;
+  background: orangered;
   color: #fff;
 }
 
@@ -157,13 +157,13 @@ span {
 }
 
 #header #logo h1 a {
-  color: #555;
+  color: #505050;
   display: inline-block;
   text-decoration: none;
 }
 
 #header #logo h1 a span {
-  color: #fe7f2d;
+  color: orangered;
 }
 
 #header #logo img {
@@ -224,7 +224,7 @@ span {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #fe7f2d;
+  color: orangered;
 }
 
 .navbar .dropdown ul {
@@ -259,7 +259,7 @@ span {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #fe7f2d;
+  color: orangered;
 }
 
 .navbar .dropdown:hover>ul {
@@ -359,7 +359,7 @@ span {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #fe7f2d;
+  color: orangered;
 }
 
 .navbar-mobile .getstarted,
@@ -394,7 +394,7 @@ span {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #fe7f2d;
+  color: orangered;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -450,7 +450,7 @@ span {
   font-weight: 700;
   line-height: 56px;
   font-family: "Philosopher", sans-serif;
-  color: #fe7f2d;
+  color: orangered;
 }
 
 @media (max-width: 768px) {
@@ -493,14 +493,14 @@ span {
   border-radius: 50px;
   transition: 0.5s;
   margin-bottom: 30px;
-  border: 2px solid #fe7f2d;
+  border: 2px solid orangered;
   background: #fff;
-  color: #fe7f2d;
+  color: orangered;
   text-decoration: none;
 }
 
 #hero .btn-get-started:hover {
-  background: #fe7f2d;
+  background: orangered;
   color: #fff;
 }
 
@@ -521,7 +521,7 @@ span {
 }
 
 #hero .btns a:hover {
-  color: #fe7f2d;
+  color: orangered;
 }
 
 /*--------------------------------------------------------------
@@ -690,7 +690,7 @@ section {
 }
 
 #get-started .feature-block a:hover {
-  color: #fe7f2d;
+  color: orangered;
 }
 
 /* About Us Section
@@ -784,11 +784,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #fe7f2d;
+  border: 1px solid orangered;
 }
 
 #screenshots .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #fe7f2d;
+  background-color: orangered;
 }
 
 /* Video Section
@@ -809,7 +809,7 @@ section {
 #video .overlay .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#fe7f2d 50%, rgba(113, 197, 93, 0.15) 52%);
+  background: radial-gradient(orangered 50%, rgba(113, 197, 93, 0.15) 52%);
   border-radius: 50%;
   display: block;
   margin: 153px auto 0;
@@ -856,7 +856,7 @@ section {
 }
 
 #video .overlay .play-btn:hover::after {
-  border-left: 15px solid #fe7f2d;
+  border-left: 15px solid orangered;
   transform: scale(20);
 }
 
@@ -966,7 +966,7 @@ section {
 }
 
 #team .team-block .team-content ul li a .fa:hover {
-  color: #fe7f2d;
+  color: orangered;
 }
 
 #team .team-block .team-content ul>span {
@@ -991,7 +991,7 @@ section {
 }
 
 #testimonials .testimonials-content::before {
-  color: #fe7f2d;
+  color: orangered;
   content: "\f10e";
   display: inline-block;
   font: 70px/1 FontAwesome;
@@ -1035,7 +1035,7 @@ section {
 }
 
 #testimonials .btm-btm .active {
-  background: #fe7f2d;
+  background: orangered;
 }
 
 .carousel-indicators {
@@ -1132,14 +1132,14 @@ section {
 }
 
 #pricing .block-pricing .pricing-table .table_btn a {
-  background: #fe7f2d;
+  background: orangered;
   color: #fff;
   margin: 0;
   display: inline-block;
 }
 
 #pricing .block-pricing .pricing-table .table_btn a:hover {
-  background: #fe7f2d;
+  background: orangered;
 }
 
 #pricing .block-pricing .pricing-table .table_btn a .fa {
@@ -1183,7 +1183,7 @@ section {
 }
 
 #blog .block-blog .content-blog h4 a:hover {
-  color: #fe7f2d;
+  color: orangered;
 }
 
 #blog .block-blog .content-blog>span {
@@ -1202,7 +1202,7 @@ section {
 }
 
 #blog .block-blog .content-blog a.readmore:hover {
-  color: #fe7f2d;
+  color: orangered;
 }
 
 /* Newsletter Section
@@ -1239,13 +1239,13 @@ section {
 }
 
 #newsletter .form-control:focus {
-  border-color: #fe7f2d;
+  border-color: orangered;
   box-shadow: none;
   outline: 0 none;
 }
 
 #newsletter .btn {
-  background: #fe7f2d;
+  background: orangered;
   border: 0;
   border-radius: 0;
   height: 50px;
@@ -1260,7 +1260,7 @@ section {
 }
 
 #newsletter .btn:hover {
-  background: #fe7f2d;
+  background: orangered;
 }
 
 #newsletter .btn .fa {
@@ -1274,7 +1274,7 @@ section {
 }
 
 #newsletter ul li {
-  background: #fe7f2d;
+  background: orangered;
   border-radius: 50px;
   float: left;
   height: 35px;
@@ -1295,7 +1295,7 @@ section {
 }
 
 #newsletter ul li:hover {
-  background: #fe7f2d;
+  background: orangered;
 }
 
 #newsletter ul li i {
@@ -1315,7 +1315,7 @@ section {
 
 #contact .info i {
   font-size: 32px;
-  color: #fe7f2d;
+  color: orangered;
   float: left;
   line-height: 0;
 }
@@ -1338,7 +1338,7 @@ section {
 #contact .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #fe7f2d;
+  background: orangered;
   color: #fff;
   /* line-height: 1; */
   padding: 6px 0 8px 0;
@@ -1350,7 +1350,7 @@ section {
 }
 
 #contact .social-links a:hover {
-  background: #fe7f2d;
+  background: orangered;
   color: #fff;
 }
 
@@ -1378,7 +1378,7 @@ section {
 #contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #fe7f2d;
+  background: orangered;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1398,7 +1398,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #fe7f2d;
+  border: 3px solid orangered;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1413,7 +1413,7 @@ section {
 
 #contact .php-email-form input:focus,
 #contact .php-email-form textarea:focus {
-  border-color: #fe7f2d;
+  border-color: orangered;
 }
 
 #contact .php-email-form input {
@@ -1425,7 +1425,7 @@ section {
 }
 
 #contact .php-email-form button[type=submit] {
-  background: #fe7f2d;
+  background: orangered;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1524,5 +1524,5 @@ section {
 .footer .copyrights p a,
 .footer .copyrights .credits a {
   letter-spacing: 0;
-  color: #fe7f2d;
+  color: orangered;
 }
